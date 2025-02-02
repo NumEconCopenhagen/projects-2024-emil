@@ -1,4 +1,4 @@
-# \[Group name\]
+# \[Emil Mikkelsen\]
 
 **Group members:**
 - A
